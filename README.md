@@ -17,11 +17,11 @@ This project implements a customer banking system in Python to manage and calcul
 - `customer_banking.py`: Main script that integrates all modules and provides a user interface for the banking application.
 
 ## Installation
-Note: Ensure you have Python 3.x installed on your machine.
+Note: These instructions assume an understanding of Git. Ensure you have Python 3.x installed on your machine.
 
 1. **Clone the Repository**:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/SegoviaJ/customer_banking.git
    ```
 
 2. **Navigate to the Project Directory**:
