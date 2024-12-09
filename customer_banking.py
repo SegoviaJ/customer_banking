@@ -21,7 +21,7 @@ def main():
 
     # Print out the interest earned and updated savings account balance with interest earned for the given months.
     # ADD YOUR CODE HERE
-    print(f"Savings Interest Earned: ${interest_earned:.2f}\nNew Savings Balance: ${updated_savings_balance:.2f}")
+    print(f"Savings Interest Earned: ${interest_earned:.2f}\nNew Savings Balance: ${updated_savings_balance:.2f}\n")
 
     # Prompt the user to set the CD balance, interest rate, and months for the CD account.
     # ADD YOUR CODE HERE
